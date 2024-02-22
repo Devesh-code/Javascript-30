@@ -1,2 +1,2 @@
 # JavaScript-30
-Beginners friendly 30 JavaScript projects. 
+Beginners friendly 30 Pure JavaScript projects. 
